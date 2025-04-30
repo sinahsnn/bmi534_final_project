@@ -8,7 +8,7 @@ This repository contains multiple deep learning-based **image captioning** model
 
 
 - [`adaptive_image_captioning.py`](adaptive_image_captioning.py)  
-  Adaptive attention-based image captioning model.
+  
 
 - [`image_captioning_efficientb3.py`](image_captioning_efficientb3.py)  
   Image captioning using **EfficientNet-B3** as encoder.
@@ -24,9 +24,5 @@ This repository contains multiple deep learning-based **image captioning** model
 
 - [`resnet34.py`](resnet34.py)  
   Contains ResNet-34 architecture definition used in captioning pipeline.
-
-- [`project--Neural-Networks--Image-Captioning.ipynb`](project--Neural-Networks--Image-Captioning.ipynb)  
-  Extended project write-up or research document.
-
 
 ---
