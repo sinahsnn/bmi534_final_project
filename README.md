@@ -25,7 +25,7 @@ This repository contains multiple deep learning-based **image captioning** model
 - [`resnet34.py`](resnet34.py)  
   Contains ResNet-34 architecture definition used in captioning pipeline.
 
-- [`project -- Neural Networks -- Image Captioning`](project -- Neural Networks -- Image Captioning.ipynb)  
+- [`project -- Neural Networks -- Image Captioning.ipynb`](project -- Neural Networks -- Image Captioning.ipynb)  
   Extended project write-up or research document. *(Consider renaming this file to avoid spaces for easier linking.)*
 
 ---
