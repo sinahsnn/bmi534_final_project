@@ -1,2 +1,33 @@
-# bmi534_final_project
-In this repository, we are implemented different models for image captioning as the final project of the course. 
+# bmi534_final_project (Image Captioning Project)
+
+This repository contains multiple deep learning-based **image captioning** models, exploring various encoder-decoder architectures for generating natural language descriptions of images. It's part of a research project focused on applying **neural networks** to computer vision and NLP tasks.
+
+---
+
+## 📁 Repository Structure
+
+- [`README.md`](README.md)  
+  This documentation file.
+
+- [`adaptive_image_captioning.py`](adaptive_image_captioning.py)  
+  Adaptive attention-based image captioning model.
+
+- [`image_captioning_efficientb3.py`](image_captioning_efficientb3.py)  
+  Image captioning using **EfficientNet-B3** as encoder.
+
+- [`image_captioning_resnet.py`](image_captioning_resnet.py)  
+  Uses a **ResNet** backbone to extract visual features for captioning.
+
+- [`image_captioning_unet.py`](image_captioning_unet.py)  
+  Explores **U-Net**, typically used for segmentation, as a captioning encoder.
+
+- [`image_captioning_vit.py`](image_captioning_vit.py)  
+  Uses **Vision Transformer (ViT)** for image captioning.
+
+- [`resnet34.py`](resnet34.py)  
+  Contains ResNet-34 architecture definition used in captioning pipeline.
+
+- [`project -- Neural Networks -- Image Captioning`](project%20--%20Neural%20Networks%20--%20Image%20Captioning)  
+  Extended project write-up or research document. *(Consider renaming this file to avoid spaces for easier linking.)*
+
+---
