@@ -6,8 +6,6 @@ This repository contains multiple deep learning-based **image captioning** model
 
 ## 📁 Repository Structure
 
-- [`README.md`](README.md)  
-  This documentation file.
 
 - [`adaptive_image_captioning.py`](adaptive_image_captioning.py)  
   Adaptive attention-based image captioning model.
