@@ -7,7 +7,7 @@ In this study, we used the Flickr8k dataset, a publicly available benchmark data
 
 This dataset is divided into three subsets: a training set containing 6,000 images, a development (validation) set of 1,000 images, and a test set of 1,000 images.
 
-### Code usage instructions ###
+### Code usage instructions ### 
 ~~~
 $ git clone https://github.com/sinahsnn/bmi534_final_project.git
 $ cd bmi534_final_project/ 
