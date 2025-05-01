@@ -31,3 +31,17 @@ $ cd bmi534_final_project/
 - [`resnet34.py`](resnet34.py)  
   Contains the **ResNet-34** architecture definition used in the captioning pipeline.
 ---
+### Results ###
+<div align="center">
+
+### 📊 Comparison of Models Using BLEU, METEOR, and ROUGE-L Scores
+
+| **Model**         | **BLEU-1** | **BLEU-4** | **METEOR** | **ROUGE-L** |
+|-------------------|------------|------------|------------|-------------|
+| ResNet18          | 0.1437     | 0.0104     | 0.1069     | 0.1409      |
+| EfficientNetB3    | 0.1366     | 0.0136     | 0.1073     | 0.1397      |
+| U-net             | 0.1312     | 0.0095     | 0.1013     | 0.1339      |
+| ViT               | 0.1098     | 0.0045     | 0.0763     | 0.1037      |
+| **InceptionV3**   | **0.2045** | **0.0322** | **0.1675** | **0.2034**  |
+
+</div>
